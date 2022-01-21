@@ -1,4 +1,4 @@
-# Full cycle grpc
+# Full cycle docker challenge 1
 
 ## About this Project
 
